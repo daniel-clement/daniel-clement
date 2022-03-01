@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daniel-clement
-- 👀 I’m interested in GIS, Geospatial Analysis, and Remote Sensing
+- 👀 I’m interested in GIS, Geospatial Analysis, and Remote Sensing and Python
 
 <!---
 daniel-clement/daniel-clement is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
