@@ -19,6 +19,9 @@ This repo contains various Python scripts which can be used to process raster (i
 ### Vector Processing
 This repo contains various Python scripts designed to be used when processing vector geospatial data.
 
+### GMAIL Utils
+This repo relates to a project where I will be creating various Python scripts to perform various tasks relating to GMAIL email. 
+
 
 <!---
 daniel-clement/daniel-clement is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
